@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Spinat fuer:"
+echo "Karotten fuer:"
 for f in FB_*.txt
 do
 while read line; do
