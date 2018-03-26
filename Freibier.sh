@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Brokkoli fuer:"
+echo "Blumenkohl fuer:"
 for f in FB_*.txt
 do
 while read line; do
