@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Dominik Tils kriegt Freibier
+=======
 HAHA MERGE CONFLICT!!
+>>>>>>> 87934dfeb227e83f8e62397f876d8ff0f6e1827c
